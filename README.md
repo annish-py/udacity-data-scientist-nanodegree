@@ -14,7 +14,7 @@ Here is a brief description of the projects involved with this programme.
 4. Data exploration of some of the common categorical responses of the survey
 5. Understanding the Health and Lifestyle trends among the developers
 
-You can find my Medium Blog Post in this [link](https://medium.com) for the full report. The jupyter notebook for this project is located in folder `1 - Data Science Blog Post`.
+You can find my Medium Blog Post in this [link](https://annishprashanth.medium.com/what-does-the-developer-community-has-to-say-to-the-world-b02b90712b7b) for the full report. The jupyter notebook for this project is located in folder `1 - Data Science Blog Post`.
 
 The data for this project is quite big and github has max size limitations to upload files to the repository, you can download the data needed for this project from [here](https://drive.google.com/drive/folders/1tEx4t_WOJUAhxJ6zISwR3-Et9HMXJxud?usp=sharing)
 

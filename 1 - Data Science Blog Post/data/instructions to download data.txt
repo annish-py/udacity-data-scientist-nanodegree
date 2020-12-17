@@ -1,0 +1,3 @@
+The data for this project is quite big and github has max size limitations to upload files to the repository, you can download the data needed for this project from [here](https://drive.google.com/drive/folders/1tEx4t_WOJUAhxJ6zISwR3-Et9HMXJxud?usp=sharing)
+
+Place the downloaded excel files in this folder to execute the jupter notebook for this project.
